@@ -62,4 +62,5 @@ This tutorial goes over some of the tools available through Voyant and applies t
 * Play around with some of the tools and see what works best!
 * For aesthetics and readability's sake, the Voyant dashboard won't allow you to have more than 5 tools displayed at a time
 * To swap one tool for another, choose the windows button at the top of the tool you want to replace
+
 ![image](https://user-images.githubusercontent.com/46492847/54692976-3bfa8a80-4afc-11e9-855a-4fb6ff082675.png)
