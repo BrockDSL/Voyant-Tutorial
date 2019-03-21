@@ -1,4 +1,8 @@
 # Voyant-Tutorial
+>![dsl_logo](https://user-images.githubusercontent.com/46492847/54776994-ab00dd80-4be7-11e9-9849-68a8fe697c15.png)
+
+[@brock_dsl](https://twitter.com/brock_dsl)
+
 Voyant is a web-based, open source text reading and analysis environment. It is designed to facilitate reading and interpretive practices for digital humanities students and scholars. Using Voyant, you can study texts and corpuses from the web or from your own collections. You can also develop your own text analysis tools using code available on their [GitHub page](https://github.com/sgsinclair/Voyant)
 This tutorial goes over some of the tools available through Voyant and applies them to the pre-loaded Shakespeare corpus in Voyant. You can follow along with your own corpus or digitized texts if you'd prefer.
 
