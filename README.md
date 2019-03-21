@@ -36,7 +36,7 @@ This tutorial goes over some of the tools available through Voyant and applies t
 > ![image](https://user-images.githubusercontent.com/46492847/54691171-2c2d7700-4af9-11e9-89ce-d96baf015824.png)
 * The **trends** tool is a line graph showing a word's distribution across a corpus or text
 * Each series is colour coordinated with the word it represents
-* You can hover over any point in the graph for information about the point, including the word, the frequencym and the document it occurs in
+* You can hover over any point in the graph for information about the point, including the word, the frequency, and the document it occurs in
 * To look at trends for one document in a corpus, hover over a point and double click - here you can choose to see trends for either the term you double clicked, or the document 
 > ![image](https://user-images.githubusercontent.com/46492847/54691870-66e3df00-4afa-11e9-9e93-635527feb11b.png)
 * When you choose this view, the document is separated into segments to make it easier to analyze
