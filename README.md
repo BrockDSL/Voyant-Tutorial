@@ -3,13 +3,13 @@
 
 [@brock_dsl](https://twitter.com/brock_dsl)
 
-Voyant is a web-based, open source text reading and analysis environment. It is designed to facilitate reading and interpretive practices for digital humanities students and scholars. Using Voyant, you can study texts and corpuses from the web or from your own collections. You can also develop your own text analysis tools using code available on their [GitHub page](https://github.com/sgsinclair/Voyant)
-This tutorial goes over some of the tools available through Voyant and applies them to the pre-loaded Shakespeare corpus in Voyant. You can follow along with your own corpus or digitized texts if you'd prefer.
+Voyant is a web-based, open source text reading and analysis environment. It is designed to facilitate reading and interpretive practices for digital humanities students and scholars. Using Voyant, you can study texts and corpuses from the web or from your own collections. You can also develop your own text analysis tools using code available on their [GitHub page](https://github.com/sgsinclair/Voyant).
+This tutorial goes over some of the tools available through Voyant and shows you how to use them with the pre-loaded Shakespeare corpus in Voyant. You can follow along with your own corpus or digitized texts if you'd prefer.
 
 ## Getting Started
 1. Start by opening [Voyant](voyant-tools.org) in your web browser. There are two ways to open a corpus or text for analysis. The first is to choose **open**. This will give you the option to work with one of the pre-loaded corpuses in Voyant - the complete works of William Shakespeare, and the complete works of Jane Austen. These are good resources if you're curious to see what you can do in Voyant, or if you happen to be working on research about either of these corpuses.
 2. To upload your own text or corpus, choose **upload**. From here, choose files from your computer to analyze. Voyant can recognize plain text, HTML, XML, PDF, RTF, and MS Word formats. Depending on how many files you upload, it could take a few minutes for Voyant to create a corpus.
-3. Once you've uploaded or created your corpus, you'll see your Voyant "dashboard". This tutorial will go in depth into all of the default tools Voyant chooses for you, as well as how you can customize this dashboard to show any visualization tools you want.
+3. Once you've chosen a preloaded corpus or uploaded your own, you'll see your Voyant "dashboard". This tutorial will go in depth into all of the default tools Voyant chooses for you, as well as how you can customize this dashboard to show any visualization tools you want.
 > Voyant tools are meant to interact with one another - meaning that if you click on a term in one visualization, the other visualizations 
 > will change accordingly. 
 
@@ -30,8 +30,7 @@ This tutorial goes over some of the tools available through Voyant and applies t
 * A **text reader** is exactly what it sounds like - a way to read documents in the corpus
 * Text is loaded as needed so as not to overwhelm the system
 * The space underneath the text is called the **prospect viewer**. This part shows an overview of the entire corpus, which is helpful when you're working with a large corpus that contains multiple documents
-* The bars represent each document in the corpus - length of the document is represented horizontally and vertically
-  * This basically means that the taller/wider a bar is, the longer the corresponding document is
+* The bars represent each document in the corpus - length of the document is represented horizontally and vertically, meaning that the taller/wider a bar is, the longer the corresponding document is
 * The blue line represents where in the corpus we're reading, and you can click anywhere along the corpus to jump around
 
 ## Trends
