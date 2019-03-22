@@ -18,7 +18,9 @@ This tutorial goes over some of the tools available through Voyant and applies t
 * A **cirrus** is a word cloud that visualizes the highest frequency words in a corpus
 * It provides a convenient, though somewhat reductive view of the content of your corpus
 * Hovering over words in the cirrus shows exact word frequency, and clicking on the word will cause other tools to react
+
 ![image](https://user-images.githubusercontent.com/46492847/54690920-ca6d0d00-4af8-11e9-8ab9-50b19ad8504a.png)
+
 * The green arrow is pointing to the terms slider. This allows you to adjust the number of words displayed in the cirrus. The minimum number of words you can include is 25, the maximum is 500 words, and the scale moves in increments of 25.
 * To make other adjustments to the cirrus like changing the colour palette and the font, choose the options tool - where the pink arrow is pointing
 * Voyant creates a cirrus from the whole corpus by default, but you can create a cirrus from just one document in the corpus by adjusting the scale - click where the blue arrow is pointing to do this 
@@ -37,8 +39,10 @@ This tutorial goes over some of the tools available through Voyant and applies t
 * The **trends** tool is a line graph showing a word's distribution across a corpus or text
 * Each series is colour coordinated with the word it represents
 * You can hover over any point in the graph for information about the point, including the word, the frequency, and the document it occurs in
-* To look at trends for one document in a corpus, hover over a point and double click - here you can choose to see trends for either the term you double clicked, or the document 
+* To look at trends for one document in a corpus, hover over a point and double click - here you can choose to see trends for either the term you double clicked, or the document
+
 ![image](https://user-images.githubusercontent.com/46492847/54691870-66e3df00-4afa-11e9-9e93-635527feb11b.png)
+
 * When you choose this view, the document is separated into segments to make it easier to analyze
 * The segments will all be approximately the same length, but you can change the number of segments in the options menu
 
