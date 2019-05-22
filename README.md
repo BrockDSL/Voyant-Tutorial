@@ -1,5 +1,5 @@
 # Voyant-Tutorial
->![dsl_logo](https://user-images.githubusercontent.com/46492847/54776994-ab00dd80-4be7-11e9-9849-68a8fe697c15.png)
+![Voyant Logo][imglogo]
 
 [@brock_dsl](https://twitter.com/brock_dsl)
 
@@ -71,3 +71,17 @@ This tutorial goes over some of the tools available through Voyant and shows you
 * To swap one tool for another, choose the windows button at the top of the tool you want to replace
 
 ![image](https://user-images.githubusercontent.com/46492847/54692976-3bfa8a80-4afc-11e9-855a-4fb6ff082675.png)
+
+
+
+
+[imglogo]: voyant.png
+[scrn1]: voyant-scrn1.png 
+[scrn2]: voyant-scrn2.png 
+[scrn3]: voyant-scrn3.png 
+[scrn4]: voyant-scrn4.png 
+[scrn5]: voyant-scrn5.png 
+[scrn6]: voyant-scrn6.png 
+[scrn7]: voyant-scrn7.png 
+[scrn8]: voyant-scrn8.png 
+[scrn9]: voyant-scrn9.png 
