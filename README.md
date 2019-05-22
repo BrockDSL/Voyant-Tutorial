@@ -1,4 +1,4 @@
-# Voyant-Tutorial
+# Voyant Tutorial
 ![Voyant Logo][imglogo]
 
 
