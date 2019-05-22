@@ -1,5 +1,5 @@
 # Voyant Tutorial
-![Voyant Logo][imglogo]
+![Voyant Logo][imglogovoyant]
 
 
 
@@ -78,7 +78,7 @@ Brought to you by the Brock University Digital Scholarship Lab
 
 
 
-[imglogo]: voyant.png
+[imglogovoyant]: voyant.png
 [scrn1]: voyant-scrn1.png 
 [scrn2]: voyant-scrn2.png 
 [scrn3]: voyant-scrn3.png 
