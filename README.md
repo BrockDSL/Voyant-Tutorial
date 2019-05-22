@@ -1,4 +1,4 @@
-# Voyant Tutorial
+# Voyant-Tutorial
 ![Voyant Logo][imglogovoyant]
 
 
@@ -74,10 +74,23 @@ This tutorial goes over some of the tools available through Voyant and shows you
 
 
 
-Brought to you by the Brock University Digital Scholarship Lab
+<br/>
+<br/>
+<br/>
+<br/>
+
+![DSL Logo][imglogo]  
+  
+**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+  
+You can also find us on:  
+[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
+[Twitter](https://twitter.com/brock_dsl)  
+[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
+  
 
 
-
+[imglogo]: dsl-logo.jpg
 [imglogovoyant]: voyant.png
 [scrn1]: voyant-scrn1.png 
 [scrn2]: voyant-scrn2.png 
