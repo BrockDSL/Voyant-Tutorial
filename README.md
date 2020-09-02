@@ -7,7 +7,7 @@ Voyant is a web-based, open source text reading and analysis environment. It is 
 This tutorial goes over some of the tools available through Voyant and shows you how to use them with the pre-loaded Shakespeare corpus in Voyant. You can follow along with your own corpus or digitized texts if you'd prefer.
 
 ## Getting Started
-1. Start by opening [Voyant](voyant-tools.org) in your web browser. There are two ways to open a corpus or text for analysis. The first is to choose **open**. This will give you the option to work with one of the pre-loaded corpuses in Voyant - the complete works of William Shakespeare, and the complete works of Jane Austen. These are good resources if you're curious to see what you can do in Voyant, or if you happen to be working on research about either of these corpuses.
+1. Start by opening [Voyant](https://voyant-tools.org/) in your web browser. There are two ways to open a corpus or text for analysis. The first is to choose **open**. This will give you the option to work with one of the pre-loaded corpuses in Voyant - the complete works of William Shakespeare, and the complete works of Jane Austen. These are good resources if you're curious to see what you can do in Voyant, or if you happen to be working on research about either of these corpuses.
 2. To upload your own text or corpus, choose **upload**. From here, choose files from your computer to analyze. Voyant can recognize plain text, HTML, XML, PDF, RTF, and MS Word formats. Depending on how many files you upload, it could take a few minutes for Voyant to create a corpus.
 3. Once you've chosen a preloaded corpus or uploaded your own, you'll see your Voyant "dashboard". This tutorial will go in depth into all of the default tools Voyant chooses for you, as well as how you can customize this dashboard to show any visualization tools you want.
 > Voyant tools are meant to interact with one another - meaning that if you click on a term in one visualization, the other visualizations 
@@ -79,18 +79,7 @@ This tutorial goes over some of the tools available through Voyant and shows you
 <br/>
 <br/>
 
-![DSL Logo][imglogo]  
-  
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
-  
-You can also find us on:  
-[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
-[Twitter](https://twitter.com/brock_dsl)  
-[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
-  
 
-
-[imglogo]: dsl-logo.jpg
 [imglogovoyant]: voyant.png
 [scrn1]: voyant-scrn1.png 
 [scrn2]: voyant-scrn2.png 
