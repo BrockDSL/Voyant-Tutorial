@@ -14,7 +14,7 @@ This tutorial goes over some of the tools available through Voyant and shows you
 > will change accordingly. 
  
  
-<script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/17746/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
  
   
 ## The Cirrus
