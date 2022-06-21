@@ -12,11 +12,9 @@ This tutorial goes over some of the tools available through Voyant and shows you
 3. Once you've chosen a preloaded corpus or uploaded your own, you'll see your Voyant "dashboard". This tutorial will go in depth into all of the default tools Voyant chooses for you, as well as how you can customize this dashboard to show any visualization tools you want.
 > Voyant tools are meant to interact with one another - meaning that if you click on a term in one visualization, the other visualizations 
 > will change accordingly. 
- 
- 
-<iframe src="https://h5pstudio.ecampusontario.ca/h5p/17746/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
- 
-  
+
+
+   
 ## The Cirrus
 ![Screenshot 1][scrn1]
 * A **cirrus** is a word cloud that visualizes the highest frequency words in a corpus
